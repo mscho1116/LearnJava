@@ -8,6 +8,8 @@ public class TryAndCatch {
          * for homework you learned how to use the "scanner" class to read terminal 
          * text. What if you ask for 
          */
+
+        //another comment for fun 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer:  ");
      
