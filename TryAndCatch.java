@@ -10,6 +10,7 @@ public class TryAndCatch {
          */
 
         //another comment for fun 
+        //and another comment
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer:  ");
      
